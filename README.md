@@ -1,4 +1,4 @@
-=
+AIzaSyD-rudCjzRmSJhfBMw5gLeK-oDb-fdm3cg
 ## Todo: Make scripts in utilities folder executable.
 fix issues with 
 ```
